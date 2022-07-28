@@ -1,0 +1,6 @@
+{
+ "Robustness Score": "0.0796",
+ "Difference in Accuracy": "14.2%",
+ "Clever Score": "0.2802",
+ "Loss Sensitivity": "26.873"
+}
